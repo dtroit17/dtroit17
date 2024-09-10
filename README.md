@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dtroit17
-- 👀 I’m interested in ...
+- 👀 I’m interested in blockchain and emerging tech
 - 🌱 I’m currently learning web3 tech (Soroban, Solana ,ICP)
 - 💞️ I’m looking to collaborate on project ideation
 - 📫 How to reach me : Email- dmkaruri75@gmail.com
