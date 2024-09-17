@@ -10,7 +10,7 @@ dtroit17/dtroit17 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
- - Checkout my NFT concept art;
+ ## Checkout my NFT concept art;
   - A martian cadet with Japanese aesthetics.
   - Vagabond : Miyamoto Musashi
   - The way of the sword,Bushido - Samurai
