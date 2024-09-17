@@ -2,7 +2,7 @@
 - 👀 I’m interested in blockchain and emerging tech
 - 🌱 I’m currently learning web3 tech (Soroban, Solana ,ICP)
 - 💞️ I’m looking to collaborate on project ideation
-- 📫 How to reach me : Email- dmkaruri75@gmail.com
+- 📫 How to reach me : Email- createkaruri01@proton.me
 - ⚡ Fun fact: In a different world , I am Miyamoto Musashi
 
 <!---
@@ -10,5 +10,8 @@ dtroit17/dtroit17 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-checkout my NFT concept art
+  Checkout my NFT concept art;
+  A martian cadet with Japanese aesthetics.
+  Vagabond : Miyamoto Musashi
+    The way of the sword,Bushido - Samurai
 ![0fKNwjhvyEBLx6eItrL2--grid](https://github.com/user-attachments/assets/02d90abf-f949-4154-936a-138d3fce2d30)
