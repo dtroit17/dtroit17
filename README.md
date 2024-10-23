@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dtroit17
 - 👀 I’m interested in blockchain and emerging tech
-- 🌱 I’m currently learning web3 tech (Soroban, Solana ,ICP)
+- 🌱 I’m currently learning web3 tech (Soroban, Solana ,ICP ,Starknet Cairo3 bootcamp)
 - 💞️ I’m looking to collaborate on project ideation
-- 📫 How to reach me : Email- createkaruri01@proton.me
+- 📫 How to reach me : Email- createkaruri01@gmail.com
 - ⚡ Fun fact: In a different world , I am Miyamoto Musashi
 
 <!---
